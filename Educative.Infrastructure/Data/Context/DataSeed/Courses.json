@@ -1,0 +1,51 @@
+[
+  {
+    "CourseID": "Bus",
+    "CourseName": "Business",
+    "CourseTutor": "Maye Teddman",
+    "CourseDescription": "Lorem ipsum dolor sit amet. Eos vero minima sit dolor ipsum qui dolorum sunt sed accusamus fugiat hic odio saepe non blanditiis veritatis. Cum itaque reprehenderit qui velit blanditiis est vero architecto in veniam voluptatem cum repellat voluptas eos corporis perferendis. Ab sunt harum ut illum veritatis aut nulla provident vel odit saepe.",
+    "CourseTopic": "Arts",
+    "Price": 450.99
+  },
+  {
+    "CourseID": "Law",
+    "CourseName": "Business Law",
+    "CourseTutor": "Sam Smith",
+    "CourseDescription": "Lorem ipsum dolor sit amet. Eos vero minima sit dolor ipsum qui dolorum sunt sed accusamus fugiat hic odio saepe non blanditiis veritatis. Cum itaque reprehenderit qui velit blanditiis est vero architecto in veniam voluptatem cum repellat voluptas eos corporis perferendis. Ab sunt harum ut illum veritatis aut nulla provident vel odit saepe.",
+    "CourseTopic": "Science",
+    "Price": 299.99
+  },
+  {
+    "CourseID": "Mar",
+    "CourseName": "Marketing",
+    "CourseTutor": "Billy Davis",
+    "CourseDescription": "Lorem ipsum dolor sit amet. Eos vero minima sit dolor ipsum qui dolorum sunt sed accusamus fugiat hic odio saepe non blanditiis veritatis. Cum itaque reprehenderit qui velit blanditiis est vero architecto in veniam voluptatem cum repellat voluptas eos corporis perferendis. Ab sunt harum ut illum veritatis aut nulla provident vel odit saepe.",
+    "CourseTopic": "Arts",
+    "Price": 499.99
+  },
+  {
+    "CourseID": "Nurse",
+    "CourseName": "Nursing",
+    "CourseTutor": "Billy Davis",
+    "CourseDescription": "Lorem ipsum dolor sit amet. Eos vero minima sit dolor ipsum qui dolorum sunt sed accusamus fugiat hic odio saepe non blanditiis veritatis. Cum itaque reprehenderit qui velit blanditiis est vero architecto in veniam voluptatem cum repellat voluptas eos corporis perferendis. Ab sunt harum ut illum veritatis aut nulla provident vel odit saepe.",
+    "CourseTopic": "Science",
+    "Price": 129.99
+  },
+  {
+    "CourseID": "Proj",
+    "CourseName": "Project Management",
+    "CourseTutor": "Hilda Shang",
+    "CourseDescription": "Lorem ipsum dolor sit amet. Eos vero minima sit dolor ipsum qui dolorum sunt sed accusamus fugiat hic odio saepe non blanditiis veritatis. Cum itaque reprehenderit qui velit blanditiis est vero architecto in veniam voluptatem cum repellat voluptas eos corporis perferendis. Ab sunt harum ut illum veritatis aut nulla provident vel odit saepe.",
+    "CourseTopic": "Science",
+    "Price": 600
+  },
+  {
+    "CourseID": "Com",
+    "CourseName": "Computer Science",
+    "CourseTutor": "Toby Brian",
+    "CourseDescription": "Lorem ipsum dolor sit amet. Eos vero minima sit dolor ipsum qui dolorum sunt sed accusamus fugiat hic odio saepe non blanditiis veritatis. Cum itaque reprehenderit qui velit blanditiis est vero architecto in veniam voluptatem cum repellat voluptas eos corporis perferendis. Ab sunt harum ut illum veritatis aut nulla provident vel odit saepe.",
+    "CourseTopic": "Science",
+    "Price": 890.99
+  }
+]
+  

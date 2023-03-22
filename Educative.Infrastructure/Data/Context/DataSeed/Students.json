@@ -1,0 +1,62 @@
+[
+  {
+    "StudentID": "Drus",
+    "Firstname": "Tatiania",
+    "MiddlenameInitial": "L",
+    "Lastname": "Drus",
+    "DateOfBirth": "1992-03-29",
+    "PhoneNo": "8975-789651",
+    "Email": "tatiania.drus@gmail.com",
+    "Attendance": 90
+  },
+  {
+    "StudentID": "Harris",
+    "Firstname": "Vivian",
+    "MiddlenameInitial": "T",
+    "Lastname": "Harris",
+    "DateOfBirth": "1990-06-19",
+    "PhoneNo": "8977-799651",
+    "Email": "vivian.harris@gmail.com",
+    "Attendance": 97
+  },
+  {
+    "StudentID": "Harvey",
+    "Firstname": "Tony",
+    "MiddlenameInitial": "H",
+    "Lastname": "Harvey",
+    "DateOfBirth": "1986-12-19",
+    "PhoneNo": "8989-709672",
+    "Email": "tony.harvey@gmail.com",
+    "Attendance": 80
+  },
+  {
+    "StudentID": "Thompson",
+    "Firstname": "Joseph",
+    "MiddlenameInitial": "C",
+    "Lastname": "Thompson",
+    "DateOfBirth": "1991-01-25",
+    "PhoneNo": "07984565343",
+    "Email": "joseph.thompson@gmail.com",
+    "Attendance": 92
+  },
+  {
+    "StudentID": "Simpson",
+    "Firstname": "Sharon",
+    "MiddlenameInitial": "T",
+    "Lastname": "Simpson",
+    "DateOfBirth": "1990-04-29",
+    "PhoneNo": "0798865345",
+    "Email": "sharon.Simpson@outlook.com",
+    "Attendance": 97
+  },
+  {
+    "StudentID": "Goslin",
+    "Firstname": "Vivian",
+    "MiddlenameInitial": "T",
+    "Lastname": "Goslin",
+    "DateOfBirth": "1989-10-19",
+    "PhoneNo": "8978-782651",
+    "Email": "goslin.vivian@gmail.com",
+    "Attendance": 97
+  }
+]
